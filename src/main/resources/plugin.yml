@@ -1,0 +1,4 @@
+name: bankaccounts
+version: '${version}'
+main: xyz.zeppelin.bankaccounts.BankPlugin
+api-version: '1.20'
